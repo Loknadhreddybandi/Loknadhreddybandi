@@ -2,6 +2,8 @@
 👀 I’m interested in Data Science, Machine Learning, Deep Learning, Computer Vision, and NLP
 🌱 I’m currently learning Advanced Neural Networks, Advanced NLP and Optimization Techniques
 💞️ I’m looking to collaborate on Machine Learning and AI Research Projects
+
+
 📫 How to reach me:
 📧 Email: bandiloknadhreddy@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/bandivenkataloknadhreddy/
