@@ -23,7 +23,7 @@ I build things that scale: distributed task queues processing **280+ tasks/sec**
 - 🎓 **MS Data Science & AI** — University of Central Missouri *(Jan 2026 – Dec 2027)*
 - 💼 **SWE Intern (AI)** — igebra.ai *(Jun–Sep 2025)*
 - 🔭 Interested in: **Backend Engineering · Distributed Systems · Infrastructure · ML Engineering**
-- 📍 Warrensburg, MO — open to remote & relocation
+- 📍 United States
 
 ---
 
