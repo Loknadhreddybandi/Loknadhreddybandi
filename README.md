@@ -1,134 +1,191 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1B2A&height=120&section=header&text=Loknadh%20Reddy%20Bandi&fontSize=36&fontColor=ffffff&fontAlignY=65&desc=MS%20Data%20Science%20%26%20AI%20%E2%80%A2%20University%20of%20Central%20Missouri&descSize=14&descAlignY=85&descColor=94A3B8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1B2A&height=140&section=header&text=Loknadh%20Reddy%20Bandi&fontSize=38&fontColor=ffffff&fontAlignY=60&desc=Software%20Engineer%20%7C%20Backend%20%26%20Distributed%20Systems&descSize=16&descAlignY=82&descColor=94A3B8" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bandivenkataloknadhreddy)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Loknadhreddybandi)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bandiloknadhreddy@gmail.com)
+<a href="https://www.linkedin.com/in/bandivenkataloknadhreddy">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Loknadhreddybandi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:bandiloknadhreddy@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 👋 About Me
+# 👋 About Me
 
-I'm a **Software Engineer** focused on **backend systems, distributed infrastructure, and applied ML** — currently pursuing my MS in Data Science & AI at the **University of Central Missouri** (graduating Dec 2027).
+I'm a **Software Engineer focused on backend engineering, distributed systems, and infrastructure**, with additional experience in **AI/ML**.
 
-I build things that scale: distributed task queues processing **280+ tasks/sec**, key-value stores hitting **3,900+ read ops/sec**, and RAG pipelines that cut hallucination rates by **~60%**. I care about systems that are fast, observable, and correct.
+I'm currently pursuing an **M.S. in Data Science & Artificial Intelligence at the University of Central Missouri**, graduating in **December 2027**.
 
-- 🎓 **MS Data Science & AI** — University of Central Missouri *(Jan 2026 – Dec 2027)*
-- 💼 **SWE Intern (AI)** — igebra.ai *(Jun–Sep 2025)*
-- 🔭 Interested in: **Backend Engineering · Distributed Systems · Infrastructure · ML Engineering**
-- 📍 United States
+I enjoy building systems from the ground up — from distributed task queues and sharded key-value stores to database engines and production backend APIs.
 
----
+### What I work on
 
-## 🛠️ Tech Stack
+- ⚙️ **Backend Engineering** — Python, FastAPI, Flask, REST APIs
+- 🌐 **Distributed Systems** — task queues, service nodes, consistent hashing, asynchronous workers
+- 🗄️ **Databases & Caching** — PostgreSQL, Redis, MySQL, MongoDB
+- 🐳 **Infrastructure** — Docker, Docker Compose, Linux, CI/CD
+- 🧠 **AI/ML** — PyTorch, Scikit-learn, NLP, deep learning
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Unix](https://img.shields.io/badge/Unix-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Backend & Systems**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**ML / AI**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-00599C?style=flat-square&logo=meta&logoColor=white)
-
-**Databases & Cloud**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazons3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+💼 **Software Engineering Intern (AI)** at [igebra.ai](https://igebra.ai)  
+🎓 **M.S. Data Science & Artificial Intelligence** — University of Central Missouri  
+🏆 **1st Place** — Columbia DivHacks 2025  
+🏆 **Runner-Up** — ACM ICPC 2024 College-Level Contest
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### ⚙️ Systems & Infrastructure
+## ⚙️ Backend & Distributed Systems
 
-| Project | What it does | Stack | Numbers |
-|---|---|---|---|
-| [**Distributed Task Queue**](https://github.com/Loknadhreddybandi) | Priority task queue across 3 worker nodes with async processing | Python · FastAPI · RabbitMQ · Redis · PostgreSQL · Docker | **280+ tasks/sec** · 18ms → sub-6ms latency |
-| [**Distributed Key-Value Store**](https://github.com/Loknadhreddybandi) | Consistent-hashing KV store across 3 nodes with TTL & health monitoring | Python · FastAPI · Redis · Consistent Hashing | **3,900+ read ops/sec** · sub-6ms GET latency |
-| [**Mini Relational Database Engine**](https://github.com/Loknadhreddybandi) | File-backed relational DB in C++17 with B-Tree indexing & custom SQL parser | C++17 · B-Tree · File I/O | **~10,000x** faster indexed vs sequential scan |
+### 🔥 [Distributed Task Queue](https://github.com/Loknadhreddybandi/distributed-task-queue)
 
-### 🤖 ML & Applied AI
+A fault-tolerant distributed task processing system built with Python and FastAPI.
 
-| Project | What it does | Stack | Numbers |
-|---|---|---|---|
-| [**RAG Document Q&A System**](https://github.com/Loknadhreddybandi) | End-to-end RAG pipeline over 189-page PDF corpus with cited real-time responses | Python · FastAPI · FAISS · LLaMA-3 · Streamlit · Docker | 688 chunks · sub-150ms retrieval |
-| [**SentimentPulse**](https://github.com/Loknadhreddybandi/sentimentpulse) | Real-time sentiment pipeline on 669K Amazon reviews | DistilBERT · FastAPI · Streamlit · Docker | **94% precision** · 99ms inference |
-| [**Fraud Detection**](https://github.com/Loknadhreddybandi/Fraud_detection_project) | Credit card fraud detection on severely imbalanced datasets | Python · XGBoost · scikit-learn · SMOTE | Class imbalance handled end-to-end |
-| [**Email Spam Classifier**](https://github.com/Loknadhreddybandi/Email-Spam-Classifier) | NLP spam detection benchmarking 12 ML models | Python · scikit-learn · TF-IDF · Streamlit | Best-model selection pipeline |
+**Highlights**
+- RabbitMQ priority queues for high, medium, and low-priority tasks
+- 3 asynchronous workers
+- At-least-once delivery
+- Redis caching with PostgreSQL persistence
+- Docker Compose service orchestration
+- PyTest integration testing for retries, routing, and recovery
+- Reduced average task-status lookup latency from **~18ms to <6ms**
 
----
-
-## 💼 Experience
-
-**Software Engineering Intern (AI)** · [igebra.ai](https://igebra.ai) · *Jun 2025 – Sep 2025 · Remote*
-
-> Built and shipped a production multimodal RAG pipeline powering student Q&A at scale.
-
-- Designed FAISS-backed vector retrieval with image-context injection into LLM prompts via Groq API — **91% answer relevance** on a 300-query internal benchmark
-- Improved retrieval factual accuracy **74% → 91%** by iterating on chunk size, overlap, and prompt templates; reduced hallucination rate by **~60%** against a ground-truth curriculum answer set
-- Analyzed **1,200+ query logs** for latency and token-usage bottlenecks; reduced Groq API cost per session by **22%** via prompt compression and output token capping
+**Stack:** `Python` `FastAPI` `RabbitMQ` `Redis` `PostgreSQL` `Docker` `PyTest`
 
 ---
 
-## 📜 Certifications
+### 🔥 [Distributed Key-Value Store](https://github.com/Loknadhreddybandi/distributed-kv-store)
 
-| Certification | Issuer |
-|---|---|
-| Machine Learning Specialization | DeepLearning.AI / Coursera (Andrew Ng) |
-| Deep Learning Specialization | DeepLearning.AI / Coursera (Andrew Ng) |
+A sharded key-value store designed around distributed request routing and caching.
+
+**Highlights**
+- 3 FastAPI service nodes
+- Consistent hashing for request routing
+- GET / PUT / DELETE operations
+- Redis-backed TTL expiration
+- Cache hit/miss tracking
+- Key-distribution statistics
+- Cluster health-check endpoints
+
+**Stack:** `Python` `FastAPI` `Redis` `Consistent Hashing`
 
 ---
 
-## 📊 GitHub Stats
+### 🗄️ [Mini Relational Database Engine](https://github.com/Loknadhreddybandi/mini-database)
+
+A relational database engine implemented from scratch in C++17.
+
+**Highlights**
+- File-backed data persistence
+- CREATE, INSERT, SELECT, and WHERE operations
+- B-Tree indexing
+- O(log N) key lookup
+- Custom SQL tokenizer
+- AST-based query parsing
+
+**Stack:** `C++17` `B-Tree` `File I/O` `SQL Parsing`
+
+---
+
+# 🤖 AI & Machine Learning
+
+### 📊 [Sentiment Analytics System](https://github.com/Loknadhreddybandi/sentimentpulse)
+
+An end-to-end sentiment analysis system built around a large Amazon review dataset.
+
+**Highlights**
+- 669K-review source dataset
+- 10,000 reviews used for model training/evaluation
+- Compared Naive Bayes, Random Forest, and Logistic Regression
+- Logistic Regression achieved **94% precision** and **0.89 F1-score**
+- FastAPI REST API for inference
+- Streamlit dashboard
+- SQLite/SQLAlchemy persistence
+- TF-IDF feature extraction
+
+**Stack:** `Python` `Scikit-learn` `FastAPI` `Streamlit` `SQLite` `SQLAlchemy`
+
+---
+
+# 💼 Experience
+
+### Software Engineering Intern (AI) — igebra.ai
+
+**Jun 2025 – Sep 2025 · Remote**
+
+Worked on backend APIs, full-stack features, and AI-powered functionality for an education platform supporting **10,000+ students**.
+
+**Highlights**
+- Developed backend APIs and full-stack features using Python, Next.js, TypeScript, Supabase, and Vercel
+- Built AI chatbot functionality using Python, Vercel AI SDK, and multiple LLM providers
+- Reduced average chatbot response latency from **~7–8s to ~3–4s (~50% reduction)**
+- Implemented role-based workflows for students, teachers, parents, and administrators
+- Optimized frontend, database, and AI workflows to achieve **sub-2s page/data loading**
+- Achieved **97%+ successful workflow execution during testing**
+
+---
+
+# 🛠️ Technical Stack
+
+### Languages
+
+`Python` `C++` `JavaScript` `TypeScript` `SQL` `Bash`
+
+### Backend & Systems
+
+`FastAPI` `Flask` `REST APIs` `Distributed Systems` `Concurrency`  
+`Operating Systems` `Networking` `Data Structures & Algorithms`
+
+### Databases & Infrastructure
+
+`PostgreSQL` `MySQL` `Redis` `MongoDB` `Supabase`  
+`Docker` `Docker Compose` `AWS S3` `Linux` `Git` `GitHub` `CI/CD`
+
+### AI & Machine Learning
+
+`PyTorch` `Scikit-learn` `NumPy` `Pandas`  
+`Supervised Learning` `Unsupervised Learning` `Deep Learning` `NLP`
+
+---
+
+# 🏆 Achievements
+
+🥇 **1st Place** — Columbia DivHacks 2025
+
+🥈 **Runner-Up** — ACM ICPC 2024 College-Level Contest
+
+🏆 **Top 5 / 300+ Builders** — PocketFM AI Storytelling Hackathon
+
+🥈 **2nd Place, Best Code Quality** — Agent Harness Hackathon
+
+---
+
+# 🎓 Education
+
+**University of Central Missouri**  
+M.S. Data Science and Artificial Intelligence  
+`Jan 2026 – Dec 2027`
+
+**Dr. M.G.R. Educational & Research Institute**  
+B.Tech Computer Science and Engineering  
+`Sep 2021 – May 2025`
+
+---
 
 <div align="center">
 
-![Loknadh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Loknadhreddybandi&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Loknadhreddybandi&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Loknadhreddybandi&theme=github-dark-blue&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-**Open to roles in Backend Engineering · Distributed Systems · Infrastructure · ML Engineering**
-
-[bandiloknadhreddy@gmail.com](mailto:bandiloknadhreddy@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1B2A&height=80&section=footer" width="100%"/>
+### Building backend systems, distributed infrastructure, and practical AI.
 
 </div>
